@@ -1,1 +1,2 @@
 # DSA-Project-3
+You should be able to run the program by downloading the zip file on Github and extracting it. Once you extract it, find the main.cpp file, open it, and then run it. If the program says "Error Opening File," it may be beacuse the "Electronic_Vehicle_Population_Data.csv" is not in the same directory as the "main.exe" file. But otherwise, the remaining directions to use the program are stated by the program's menu.
